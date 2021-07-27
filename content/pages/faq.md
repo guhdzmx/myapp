@@ -9,5 +9,9 @@ seo:
 layout: page
 ---
 > Preguntas y Respuestas
->
->
+
+
+
+
+
+![](/images/escala.PNG)
