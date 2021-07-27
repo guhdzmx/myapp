@@ -4,10 +4,10 @@ sections:
   - type: hero_section
     title: Adiós impresiones!
     subtitle: Recolecta firmas en cualquier Documento PDF
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Con Legal Paper podrás recolectar firmas en cualquier documento en formato
+      PDF sin perder la legalidad de las firmas, ahora podrás tener sistema
+      digital de archivos con la mejor parte, recolectar firmas.
     actions:
       - label: App Store
         url: /pricing
