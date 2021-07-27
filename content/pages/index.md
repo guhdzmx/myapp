@@ -30,9 +30,10 @@ sections:
     grid_items:
       - title: 100% Digital
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Ya no tendrás que imprimir hojas y hojas para recabar firmas y dar
+          legalidad a tus documentos, ahora solo crea una carpeta para subir tus
+          archivos en formato PDF y listo a recolectar firmas.
         content_align: left
         actions:
           - label: Learn More
