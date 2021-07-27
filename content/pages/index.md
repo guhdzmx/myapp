@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Recolecta firmas en tus Documentos
+    title: 'Adios Papel, Hola'
     subtitle: Recolecta firmas en cualquier Documento PDF
     content: >-
       App Land combines your work and home calendars with all your task
