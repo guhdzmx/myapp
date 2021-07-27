@@ -13,7 +13,7 @@ sections:
         url: /about
         style: primary
       - label: Google Play
-        url: /pricing
+        url: /about
         style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
