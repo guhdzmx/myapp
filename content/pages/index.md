@@ -99,7 +99,7 @@ sections:
   - type: features_section
     features:
       - title: "Programa\_tus Firmas"
-        subtitle: Puedes programar una recolecciín de firmas
+        subtitle: Puedes programar una recolección de firmas
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
