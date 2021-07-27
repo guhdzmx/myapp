@@ -69,9 +69,12 @@ sections:
         image_position: top
       - title: Notificaciones Inteligentes
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Por cierto, recolectar firmas no significa gastar tiempo en viajes y
+          hacer que firmen el documento, basta que envíes un enlace y des acceso
+          a la persona correcta y en automático recibirás una notificación en
+          cuanto el documento esté firmado, esto es perfecto para poner plazos
+          en las firmas que recolectes.
         content_align: left
         actions:
           - label: Learn More
