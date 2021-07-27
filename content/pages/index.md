@@ -50,9 +50,9 @@ sections:
         image_position: top
       - title: En cualquier lado
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Legal Paper es perfecto para recabar firmas en cualquier dispositivo,
+          en smartphones o tablets, es así de simple.
         content_align: left
         actions:
           - label: Learn More
