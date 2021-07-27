@@ -10,7 +10,7 @@ sections:
       digital de archivos con la mejor parte, recolectar firmas.
     actions:
       - label: App Store
-        url: /pricing
+        url: /about
         style: primary
       - label: Google Play
         url: /pricing
