@@ -100,9 +100,10 @@ sections:
     features:
       - title: "Programa\_tus Firmas"
         subtitle: Puedes programar una recolección de firmas
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Es muy simple recolectar firmas con la programación, solo elige la
+          fecha y hora exacta en cuanto deseas que se envíe tu enlace de
+          recolección de firma y listo!, observa tus notificaciones de pasos.
         actions:
           - label: Learn More
             url: /pricing
